@@ -1,5 +1,6 @@
-opencv-python
+streamlit
 mediapipe
+opencv-python-headless
 pycaw
-numpy
 comtypes
+numpy
